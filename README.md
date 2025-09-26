@@ -39,4 +39,4 @@ Veri seti, yaklaşık 25.000 eğitim ve 14.000 test görüntüsü içermektedir.
 
 Projenin tüm kodlarını, açıklamalarını ve çıktılarını içeren Kaggle Notebook'una aşağıdaki linkten ulaşabilirsiniz:
 
-**LİNK**
+**https://www.kaggle.com/code/beyzaydn/derinogrenmebootcamp**
